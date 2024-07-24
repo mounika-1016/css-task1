@@ -1,0 +1,44 @@
+
+        span
+        {
+        color:rgb(170, 9, 63);
+        }
+#a
+{
+    color: rgb(162, 72, 7);
+}
+.b
+{
+    color: chartreuse;
+    background-color:rgb(224, 74, 74);
+    font-size:larger;
+}
+#c
+{
+    color: darkolivegreen;
+    font-size: larger;
+    background-color: aquamarine;
+}
+.d
+{
+    color: rgb(2, 56, 20);
+    background-color: darkgray;
+    font-size: larger;
+}
+#e
+{
+    color: rgb(9, 95, 91);
+    background-color: bisque;
+}
+#p
+{
+   color: crimson; 
+}
+#i
+{
+    color: olivedrab;
+}
+#o
+{
+    color:darkred;
+}
